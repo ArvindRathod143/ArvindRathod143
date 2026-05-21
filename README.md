@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Arvind Rathod
 
-<!--
-**ArvindRathod143/ArvindRathod143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 MERN Stack Developer
 
-Here are some ideas to get you started:
+- React JS
+- Node JS
+- Express JS
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: Arvindrathod3795@gmail.com
+- Mo No: 9420655682
+  
+## 🌱 Currently Learning
+- Next.js
+- FlutterFlow
