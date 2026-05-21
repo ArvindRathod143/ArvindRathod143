@@ -14,3 +14,5 @@
 ## 🌱 Currently Learning
 - Next.js
 - FlutterFlow
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvindRathod143&show_icons=true)
