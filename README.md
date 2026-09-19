@@ -1,286 +1,160 @@
 <div align="center">
 
-# `root@arvind:~$ whoami`
+# ARVIND RATHOD
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=850&height=60&lines=Arvind+Rathod;Computer+Science+Engineer;MERN+Stack+Developer;AI+%26+Data+Science+Explorer;Building+%7C+Learning+%7C+Debugging" />
+### `Computer Science Engineer • MERN Stack Developer • Software Builder`
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ArvindRathod143&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                  SYSTEM INITIALIZED                        ║
-║                                                            ║
-║   USER        : ARVIND RATHOD                              ║
-║   ROLE        : COMPUTER SCIENCE ENGINEER                  ║
-║   LOCATION    : CHH. SAMBHAJINAGAR, INDIA                 ║
-║   STATUS      : ONLINE                                     ║
-║   MODE        : BUILD                                      ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# `> ./about_me`
-
-```bash
-$ whoami
-
-Arvind Rathod
-
-$ education
-
-B.E. Computer Science Engineering
-
-$ location
-
-Chh. Sambhajinagar, Maharashtra, India
-
-$ current_role
-
-Developer / Engineering Student
-
-$ interests
-
-Full Stack Development
-Artificial Intelligence
-Data Science
-Desktop AI Applications
-
-$ mission
-
-Build real-world software.
-Learn modern technologies.
-Turn ideas into working projects.
-```
-
----
-
-# `> ./system_status`
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    SYSTEM STATUS                         │
-├──────────────────────────────────────────────────────────┤
-│  ● Developer Status       : ONLINE                       │
-│  ● Learning               : ACTIVE                       │
-│  ● Project Development    : ACTIVE                       │
-│  ● Problem Solving        : ACTIVE                       │
-│  ● GitHub                 : ONLINE                       │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-# `> ./skills --list`
-
-## `01 // PROGRAMMING LANGUAGES`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" />
-</p>
-
-## `02 // FULL STACK DEVELOPMENT`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs&theme=dark" />
-</p>
-
-## `03 // DATABASE & TOOLS`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
-</p>
-
----
-
-# `> ./projects`
-
-## `01 // KRUSHI MART`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                     KRUSHI MART                          ║
-╠══════════════════════════════════════════════════════════╣
-║  STATUS      : ACTIVE DEVELOPMENT                        ║
-║  TYPE        : FULL STACK WEB APPLICATION                ║
-║                                                          ║
-║  PURPOSE     : Online platform for fresh farm produce,   ║
-║                organic goods and agricultural products.  ║
-║                                                          ║
-║  TECHNOLOGY  : React.js | Node.js | Express.js | MongoDB║
-╚══════════════════════════════════════════════════════════╝
-```
-
-## `02 // MAYA AI`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                         MAYA AI                          ║
-╠══════════════════════════════════════════════════════════╣
-║  STATUS      : DEVELOPMENT                               ║
-║  TYPE        : DESKTOP AI ASSISTANT                      ║
-║                                                          ║
-║  PURPOSE     : Personal desktop AI assistant with       ║
-║                voice interaction and AI capabilities.   ║
-║                                                          ║
-║  TECHNOLOGY  : Python | PyQt6 | AI | Voice Recognition  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-# `> ./learning --current`
-
-```text
-[ SYSTEM LEARNING MODULE ]
-
-[+] Next.js
-[+] FlutterFlow
-[+] Data Science
-[+] Artificial Intelligence
-[+] Advanced Web Development
-
-STATUS : LEARNING IN PROGRESS...
-```
-
----
-
-# `> ./github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArvindRathod143&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_radius=10" />
+<a href="https://github.com/ArvindRathod143">
+  <img src="https://img.shields.io/badge/GitHub-ArvindRathod143-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:arvindrathod3795@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindRathod143&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_radius=10" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Learning+Next.js+%26+FlutterFlow;Code+%7C+Build+%7C+Debug+%7C+Improve" />
 
 </div>
 
 ---
 
-# `> ./github --streak`
+## 👋 About Me
+
+I am **Arvind Rathod**, a Computer Science Engineer focused on building practical software and modern web applications.
+
+- 💻 MERN Stack Developer
+- ⚛️ Working with React, Node.js, Express.js and MongoDB
+- 🚀 Currently learning Next.js and FlutterFlow
+- 🧠 Exploring Artificial Intelligence and Data Science
+- 🛠️ Interested in building real-world applications
+- 📚 Always learning new technologies and improving development skills
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+</p>
+
+### Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Krushi Mart
+
+**Full-stack web application for agricultural and grocery products.**
+
+**Technology:** React.js • Node.js • Express.js • MongoDB
+
+**Focus:** E-commerce • Product Management • Cart • Orders • Agricultural Products
+
+---
+
+### 🤖 MAYA — Personal AI Assistant
+
+**Desktop AI assistant project focused on voice interaction and intelligent computer assistance.**
+
+**Technology:** Python • PyQt6 • AI • Voice Recognition
+
+**Focus:** Desktop Automation • Voice Interaction • AI Assistant
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ArvindRathod143&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=AAAAAA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArvindRathod143&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindRathod143&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
 </div>
 
----
-
-# `> ./contribution --visualize`
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://streak-stats.demolab.com?user=ArvindRathod143&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
-# `> ./developer_profile`
+## 🎯 Current Learning
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                 DEVELOPER CONFIGURATION                  │
-├──────────────────────────────────────────────────────────┤
-│  [IDENTITY]                                              │
-│  name       = Arvind Rathod                              │
-│  username   = ArvindRathod143                            │
-│  role       = Computer Science Engineer                  │
-│                                                          │
-│  [FOCUS]                                                 │
-│  full_stack = true                                       │
-│  web_dev    = true                                       │
-│  artificial_intelligence = true                          │
-│  data_science = true                                     │
-│                                                          │
-│  [CURRENT_MODE]                                          │
-│  learning   = true                                       │
-│  building   = true                                       │
-│  debugging  = true                                       │
-└──────────────────────────────────────────────────────────┘
+Next.js          ███████████████░░░░░
+FlutterFlow      ████████████░░░░░░░░
+Data Science     ██████████░░░░░░░░░░
+Artificial AI    █████████░░░░░░░░░░░
+Web Development  ████████████████░░░░
 ```
 
 ---
 
-# `> ./terminal`
+## 💡 Development Philosophy
+
+> **Build useful things. Learn continuously.  
+> Solve problems. Improve every commit.**
 
 ```bash
-┌──[ARVIND@GITHUB]
-└─$ sudo ./build_future.sh
+$ git status
 
-[✓] Learn
-[✓] Code
-[✓] Build
-[✓] Test
-[✓] Debug
-[✓] Improve
+On branch main
+Your workspace is ready.
 
-SYSTEM MESSAGE:
-"Every bug is another step toward better code."
+$ npm run build
+✓ Build completed
+
+$ git commit -m "keep improving"
+✓ Changes committed
+
+$ git push
+✓ Changes pushed successfully
 ```
 
 ---
 
-# `> ./contact`
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:arvindrathod3795@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Email-arvindrathod3795%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-&nbsp;
-
 <a href="https://github.com/ArvindRathod143">
-<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GitHub-ArvindRathod143-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# `> ./career_goal`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    CAREER OBJECTIVE                      ║
-╠══════════════════════════════════════════════════════════╣
-║  Become a skilled software developer by building        ║
-║  real-world applications, learning modern technologies, ║
-║  and solving practical problems through technology.     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  ACCESS GRANTED ✓                        ║
-║                                                          ║
-║              KEEP LEARNING.                              ║
-║              KEEP BUILDING.                              ║
-║              KEEP DEBUGGING.                             ║
-╚══════════════════════════════════════════════════════════╝
-```
+### `Thanks for visiting my profile.`
 
-### `> SYSTEM MESSAGE: Thanks for visiting my profile. 🚀`
+<img src="https://komarev.com/ghpvc/?username=ArvindRathod143&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Connection+Established...;Developer+Mode+Activated...;See+you+in+the+next+commit+%F0%9F%9A%80" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=Code.+Create.+Learn.+Repeat.;See+you+in+the+next+commit+%F0%9F%9A%80" />
 
 </div>
